@@ -12,4 +12,11 @@ fun main() {
     println(greeting)
     println(consonant)
     println(isKotlinInteresting)
+
+    //Typecasting
+    var x = num.toInt()
+    println(x)
+
+    var y = number.toDouble()
+    println(y)
 }
